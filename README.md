@@ -1,4 +1,4 @@
 ## Integrantes
-Etienne Rojas
-Renato Burgos
-Diego Varela
+- Etienne Rojas
+- Renato Burgos
+- Diego Varela
